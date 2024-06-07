@@ -31,11 +31,11 @@ Nice Project!
 
 - Lineups: Rectitude, Upright (Business). Constellation, Spacious (Gaming). Elemental, Immediate (Programming). 
 
-- Developments: Construct, Exlusive (Machine Learning). Entity, Personal (Simulation). Envision, Initimate (Networking). 
+- Developments: Construct, Exlusive (Machine Learning). Entity, Personal (Simulation). Envision, Initimate (Networking).
+
+- RCT: BIOS, Bootloader.  
 
 - ProSync: Assembler, Linker, Compiler. 
-
-- RCT: BIOS, Bootloader. 
 
 - Immersion: IDE, Intrpreter.
 
