@@ -1,7 +1,7 @@
 # Ilios Selene's: Reactor Computing Technologies 
 
-https://www.iliosselene.com
-https://www.reatorcomputing.com
+https://www.iliosselene.com    return
+https://www.reatorcomputing.com    return
 
 ## Important Information
 
@@ -43,10 +43,10 @@ Nice Project!
 
 Decent!
 
-Jesse Comeau
-ILios Selene
-Reactor Computing Technologies
-236-838-2595
-jc@iliosselene.com
-info@reactorcomputing.com
-Dover, De
+Jesse Comeau    return
+ILios Selene    return
+Reactor Computing Technologies    return
+236-838-2595    return
+jc@iliosselene.com    return
+info@reactorcomputing.com    return
+Dover, De    return
