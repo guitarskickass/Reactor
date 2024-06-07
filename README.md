@@ -40,3 +40,27 @@ Nice Project!
 - SynTax: Programming Language. 
 
 - BizSense: Software. 
+
+Decent!
+
+## About me
+
+- Religious Views, and Political Science: 
+Christian Presbyterian, and Progressive Conservative 
+
+- I'm going to be a Heavy Duty Mechanic in a Quartz mine for IUOE, and work my way up to a Multinational Conglomerate.
+- Previous: Interior Systems Mechanic (schools, hospitals, casinos, court houses), Heat and Frost Mechanic (food, transportation, forestry, mining, chemical, oil & gas).
+
+- Heavy Duty Mechanic, I'd be really good at it, since I'm good at/with Mechanics. I know about engines, headers, gaskets, fuel injectors, spark plugs, crank shafts, timing belts, alternators, batteries, thermostats, manifolds, exhausts, catalytics, transmissions, axles, differentials, hubs, breaks. 
+
+- Study: Business Administration/Computer Science. 
+- Industry: Business Management and IT. 
+- Markets: Business, Computing. 
+- Work: Entrepreneur/Cpu Systems Designer 
+- Hobbies: Music and Sports 
+
+- For Business, I'm going to stick with Quartz Mining, Silicon Production and Semiconductor Manufacturing, and Processor Fabrication (Supply Chain/Logistics). 
+- For Computing, I'm going to stick with Electrical, Computer, Engineering, Architecture (Low Level Programming). 
+- That way I can figure out how a computer is made and how much Materials, Equipment, Supplies I need to make em. 
+
+Something like that!
